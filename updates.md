@@ -7,10 +7,10 @@ permalink: /updates/
 included: true
 ---
 
-<div class="home">
+
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Updates" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Here's what we've got" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -29,5 +29,3 @@ included: true
     </ul>
 
   {%- endif -%}
-
-</div>
