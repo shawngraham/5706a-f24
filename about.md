@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: Contact
 permalink: /about/
 included: true
-order: 1
+order: 5
 ---
 
 # Contact Shawn
