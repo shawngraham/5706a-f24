@@ -1,4 +1,4 @@
-[Mt. Everest from Gokyo Ri November 5, 2012 Cropped](images/Mt._Everest_from_Gokyo_Ri_November_5,_2012_Cropped.jpg)
+![Mt. Everest from Gokyo Ri November 5, 2012 Cropped](images/Mt._Everest_from_Gokyo_Ri_November_5,_2012_Cropped.jpg)
 
 _Why? Because it's there!_
 
