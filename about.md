@@ -1,6 +1,9 @@
+---
 layout: page
-title: "about"
-permalink: /about
+title: About
+permalink: /about/
+included: true
+order: 1
 ---
 
 # Contact Shawn
