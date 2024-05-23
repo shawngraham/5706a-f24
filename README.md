@@ -103,4 +103,6 @@ The sequence of lessons we will go through mirrors the progression of a digital 
 + Come to the first class having read Eryk Salvaggio's [_Underutilized._](https://cyberneticforests.substack.com/p/underutilized) and [_The Hypothetical Image_](https://cyberneticforests.substack.com/p/no-mourning-for-synthetic-ruins).**
 
 
+# Colophon
 
+I've taught varieties of this course over the years. The most recent version was fully online, asynchronous, and exhausting. I wrote _several_ support documents for that course. You might find those documents useful, if slightly out-of-date. I repeat - I have not updated those docs for broken links or changing approaches. Nevertheless, they might help round out your understanding, so I encourage you to use them in tandem with the Programming Historian. You can start [here](https://graddh.netlify.app/docs/tutorials/github-basic/) but **nb anything else on that site like eg assessment, schedule etc is from 2021!**
