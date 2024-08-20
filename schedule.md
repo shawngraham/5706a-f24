@@ -24,16 +24,16 @@ These sessions will be opportunities for the more techy to help the less, for th
 
 > doing embodies theories of knowing and how you do things reveals what you know. So know what you're doing.
 
-The sequence of lessons we will go through mirrors the progression of a digital history research project - setting up your environment/project/workflow; data capture; data munging; analysis; visualizations; public consumption.
+**This schedule will be updated with who-will-lead-or-do-what-when after our first meeting**. 
 
 
 ## Background Context on Digital History in Canada
 
 At some point before the Fall Break, please read
 
-Gaffield, Chad. ‘Clio and Computers in Canada and Beyond: Contested Past, Promising Present, Uncertain Future’. The Canadian Historical Review, vol. 101, no. 4, 2020, pp. 559–84. https://muse-jhu-edu.proxy.library.carleton.ca/pub/50/article/777491/pdf
+Gaffield, Chad. ‘Clio and Computers in Canada and Beyond: Contested Past, Promising Present, Uncertain Future’. The Canadian Historical Review, vol. 101, no. 4, 2020, pp. 559–84. [link](https://muse-jhu-edu.proxy.library.carleton.ca/pub/50/article/777491/pdf)
 
-Kim Martin. 'Clio, Rewired: Propositions for the Future of Digital History Pedagogy in Canada' The Canadian Historical Review, vol. 101, no. 4, 2020, pp. 622-639. https://muse-jhu-edu.proxy.library.carleton.ca/pub/50/article/777494/pdf
+Kim Martin. 'Clio, Rewired: Propositions for the Future of Digital History Pedagogy in Canada' The Canadian Historical Review, vol. 101, no. 4, 2020, pp. 622-639. [link](https://muse-jhu-edu.proxy.library.carleton.ca/pub/50/article/777494/pdf)
 
 
 ## Meeting 1: Getting Started
@@ -52,21 +52,19 @@ We will spend a bit of time setting up your own personal research management env
 
 **To do:**
 
-- Some command line shennanigans: 
+Some command line shennanigans: [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html); [Command Line Murders](https://github.com/veltman/clmystery).
 
-	[Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html); [Command Line Murders](https://github.com/veltman/clmystery).
++ Simpkin, Sarah. ‘Getting Started with Markdown’. Programming Historian, Nov. 2015. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/getting-started-with-markdown).
 
-	Simpkin, Sarah. ‘Getting Started with Markdown’. Programming Historian, Nov. 2015. programminghistorian.org, [https://programminghistorian.org/en/lessons/getting-started-with-markdown](https://programminghistorian.org/en/lessons/getting-started-with-markdown).
++ Tenen, Dennis, and Grant Wythoff. ‘Sustainable Authorship in Plain Text Using Pandoc and Markdown’. Programming Historian, Mar. 2014. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
 
-	Tenen, Dennis, and Grant Wythoff. ‘Sustainable Authorship in Plain Text Using Pandoc and Markdown’. Programming Historian, Mar. 2014. programminghistorian.org, https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown.
-
-Then we'll divy out some of the other Programming Historian tutorials in the subsequent weeks.
+Then we'll divy out some of the other Programming Historian tutorials below for the subsequent weeks.
 
 **To mull:**
 
-	Baker, James. ‘Preserving Your Research Data’. Programming Historian, Apr. 2014. programminghistorian.org, https://programminghistorian.org/en/lessons/preserving-your-research-data.
++ Baker, James. ‘Preserving Your Research Data’. Programming Historian, Apr. 2014. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/preserving-your-research-data.)
 
-	Heppler, Jason A. ‘How I Use Obsidian Jason A. Heppler’. Jason Heppler Weblog, July 2024. jasonheppler.org, https://jasonheppler.org.
++ Heppler, Jason A. ‘How I Use Obsidian Jason A. Heppler’. Jason Heppler Weblog, July 2024. jasonheppler.org, [link](https://jasonheppler.org).
 
 
 ## Meeting 2: Digital History in the Wild
@@ -75,9 +73,9 @@ We'll consider some examples of what digital history looks like, and the kinds o
 
 **Before coming to class read:**
 
-Catherine D’Ignazio and Lauren F. Klein, “What Gets Counted Counts” and “The Numbers Don’t Speak for Themselves,” Data Feminism (2020), [https://data-feminism.mitpress.mit.edu/](https://data-feminism.mitpress.mit.edu/).
++ Catherine D’Ignazio and Lauren F. Klein, “What Gets Counted Counts” and “The Numbers Don’t Speak for Themselves,” Data Feminism (2020), [https://data-feminism.mitpress.mit.edu/](https://data-feminism.mitpress.mit.edu/).
 
-Ryan Cordell, ‘Q i-jtb the Raven’: Taking Dirty OCR Seriously' [_Book History_ 20 (2017), 188-225](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1ortgfo/cdi_proquest_journals_2008107951) (see also https://ryancordell.org/research/qijtb-the-raven/)
++ Ryan Cordell, ‘Q i-jtb the Raven’: Taking Dirty OCR Seriously' [_Book History_ 20 (2017), 188-225](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1ortgfo/cdi_proquest_journals_2008107951) (see also [link](https://ryancordell.org/research/qijtb-the-raven/))
 
 **To do**
 
@@ -95,32 +93,33 @@ Being able to control your own space online enables a certain kind of freedom. T
 **To read**
 Please read the following tutorials about building static websites, especially the _why_ of it all. I'm not a fan of Jekyll - I find it frustrating to use - but I want you to know these things. Don't worry about trying to put together a Jekyll powered site using these tutorials (unless you really want to).
 
-Visconti, Amanda. ‘Building a Static Website with Jekyll and GitHub Pages’. Programming Historian, Apr. 2016. programminghistorian.org, https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages.
++ Visconti, Amanda. ‘Building a Static Website with Jekyll and GitHub Pages’. Programming Historian, Apr. 2016. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).
 
-Visconti, Amanda, et al. ‘Running a Collaborative Research Website and Blog with Jekyll and GitHub’. Programming Historian, Nov. 2020. programminghistorian.org, https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github.
++ Visconti, Amanda, et al. ‘Running a Collaborative Research Website and Blog with Jekyll and GitHub’. Programming Historian, Nov. 2020. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github).
 
 **To do**
+
 We'll build a website using [Pelican](https://getpelican.com/#quickstart), which is a python package that will read a folder of text files (in the markdown format), pass them through a template, and spit out the necessary html files that make a website. We'll then put these files online using Github Pages. (See my notes on using Obsidian - or other noteaking app using wikilinks eg Pelican - to write the markdown [here](https://electricarchaeology.ca/2024/07/25/obsidian-for-writing-pelican-for-publishing/)).
 
 ## Meeting 4. Networks
 
-I was a relatively early proponents of network analysis in archaeology. We'll talk about what a network perspective might offer, as well as perils and pitfalls. (Here's a past [mre using a network approach on Ontario history](https://figshare.com/articles/journal_contribution/Networks_of_Commemoration_Gender_Class_and_the_Remembrance_of_General_Brock_1898_1912/710956?file=1073570))
+I was a relatively early proponents of network analysis in archaeology. We'll talk about what a network perspective might offer (hey, it made my entire PhD!), as well as perils and pitfalls. (Here's a past [mre using a network approach on Ontario history](https://figshare.com/articles/journal_contribution/Networks_of_Commemoration_Gender_Class_and_the_Remembrance_of_General_Brock_1898_1912/710956?file=1073570))
 
 **To Read**
 
-Ahnert, Ruth, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart. 2020. The Network Turn: Changing Perspectives in the Humanities. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108866804. (Our library, direct link: https://www-cambridge-org.proxy.library.carleton.ca/core/services/aop-cambridge-core/content/view/CC38F2EA9F51A6D1AFCB7E005218BBE5/9781108791908AR.pdf/the-network-turn.pdf). This is a short work, read the intro and part 1, dip into anything else that strikes your fancy.
++ Ahnert, Ruth, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart. 2020. The Network Turn: Changing Perspectives in the Humanities. Cambridge: Cambridge University Press. [link](https://doi.org/10.1017/9781108866804). (Our library, [direct link](https://www-cambridge-org.proxy.library.carleton.ca/core/services/aop-cambridge-core/content/view/CC38F2EA9F51A6D1AFCB7E005218BBE5/9781108791908AR.pdf/the-network-turn.pdf). This is a short work, read the intro and part 1, dip into anything else that strikes your fancy.
 
-For examples of network analysis in the wild, [this issue of the Journal of Historical Network Research](https://jhnr.uni.lu/index.php/jhnr/issue/view/8) is great - see in particular [Ruffini's conclusion](https://jhnr.uni.lu/index.php/jhnr/article/view/82/44) to the issue, which addresses the 'so what' and the 'we knew this already' and 'what if we're wrong'. **This is important**. On a similar note, see Lincoln 2015 on 'confabulation in the humanities' [here](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html).
++ For examples of network analysis in the wild, [this issue of the Journal of Historical Network Research](https://jhnr.uni.lu/index.php/jhnr/issue/view/8) is great - see in particular [Ruffini's conclusion](https://jhnr.uni.lu/index.php/jhnr/article/view/82/44) to the issue, which addresses the 'so what' and the 'we knew this already' and 'what if we're wrong'. **This is important**. On a similar note, see Lincoln 2015 on 'confabulation in the humanities' [here](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html).
 
 **To do**
 
 A handy tool for quick network visualizations: [https://networknavigator.jrladd.com/](https://networknavigator.jrladd.com/). Here is a [dataset](http://www.themacroscope.org/1.0/datafiles/source-texas-correspondence.txt) of the index of correspondence for the Republic of Texas; knowing nothing else about the Republic of Texas, how might visualizing this correspondence network provoke new insights or questions?
 
-Düring, Marten. ‘From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources’. Programming Historian, Feb. 2015. programminghistorian.org, https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources.
++ Düring, Marten. ‘From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources’. Programming Historian, Feb. 2015. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources).
 
-Ladd, John R., et al. ‘Exploring and Analyzing Network Data with Python’. Programming Historian, Aug. 2017. programminghistorian.org, https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python.
++ Ladd, John R., et al. ‘Exploring and Analyzing Network Data with Python’. Programming Historian, Aug. 2017. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python).
 
-Brey, Alex. ‘Temporal Network Analysis with R’. Programming Historian, Nov. 2018. programminghistorian.org, https://programminghistorian.org/en/lessons/temporal-network-analysis-with-r. (You can install RStudio on your machine to run R, or you can change the runtime for Google Colab from Python to R like [so](https://archive.ph/Eqe57).)
++ Brey, Alex. ‘Temporal Network Analysis with R’. Programming Historian, Nov. 2018. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/temporal-network-analysis-with-r). (You can install RStudio on your machine to run R, or you can change the runtime for Google Colab from Python to R like [so](https://archive.ph/Eqe57).)
 
 
 ## Meeting 5. Topic Models and Text Analysis
@@ -131,11 +130,11 @@ I love the Data Sitters Club. Read about [their misadventures with topic modelin
 
 **To do**
 
-Here's a Google Notebook I made that uses something called 'paddleOCR' to identify text in an image and then OCR it [link](https://colab.research.google.com/drive/1TYhLsOYW4nVfX5NP8Fi-O1QU0_ndj_ik). There are many other options. The lesson below suggests another approach, and then uses Dariah Topics Explorer.
++ Here's a Google Notebook I made that uses something called 'paddleOCR' to identify text in an image and then OCR it [link](https://colab.research.google.com/drive/1TYhLsOYW4nVfX5NP8Fi-O1QU0_ndj_ik). There are many other options. The lesson below suggests another approach, and then uses Dariah Topics Explorer.
 
-Mähr, Moritz. ‘Working with Batches of PDF Files’. Programming Historian, Jan. 2020. programminghistorian.org, https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files.
++ Mähr, Moritz. ‘Working with Batches of PDF Files’. Programming Historian, Jan. 2020. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files).
 
-If your documents are in a folder of text files, give [this a try instead](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html). The topic modeling tool uses MALLET under the hood (and you can learn more about how _that_ works and why, [here](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).)
++ If your documents are in a folder of text files, give [this a try instead](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html). The topic modeling tool uses MALLET under the hood (and you can learn more about how _that_ works and why, [here](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).)
 
 ## Meeting 6. examining images at scale
 
@@ -143,15 +142,15 @@ What can we see if look at vast amounts of historical imagery at once? I've just
 
 **To Read**
 
-Wevers, M. J. H. F., Vriend, N., & De Bruin, A. (2022). What to do with 2.000.000 Historical Press Photos? The Challenges and Opportunities of Applying a Scene Detection Algorithm to a Digitised Press Photo Collection. TMG – Journal for Media History, 25(1) https://doi.org/10.18146/tmg.815 
++ Wevers, M. J. H. F., Vriend, N., & De Bruin, A. (2022). What to do with 2.000.000 Historical Press Photos? The Challenges and Opportunities of Applying a Scene Detection Algorithm to a Digitised Press Photo Collection. TMG – Journal for Media History, 25(1) [link](https://doi.org/10.18146/tmg.815). 
 
-Melvin Wevers, Thomas Smits, The visual digital turn: Using neural networks to study historical images, Digital Scholarship in the Humanities, Volume 35, Issue 1, April 2020, Pages 194–207, https://doi.org/10.1093/llc/fqy085 https://academic.oup.com/dsh/article-pdf/35/1/194/32976784/fqy085.pdf
++ Melvin Wevers, Thomas Smits, The visual digital turn: Using neural networks to study historical images, Digital Scholarship in the Humanities, Volume 35, Issue 1, April 2020, Pages 194–207, [link](https://doi.org/10.1093/llc/fqy085 https://academic.oup.com/dsh/article-pdf/35/1/194/32976784/fqy085.pdf).
 
 **To do**
 
-Strien, Daniel van, et al. ‘Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 1)’. Programming Historian, Aug. 2022. programminghistorian.org, https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1.
++ Strien, Daniel van, et al. ‘Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 1)’. Programming Historian, Aug. 2022. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1).
 
-Strien, Daniel van, et al. ‘Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2)’. Programming Historian, Aug. 2022. programminghistorian.org, https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt2.
++ Strien, Daniel van, et al. ‘Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2)’. Programming Historian, Aug. 2022. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt2).
 
 ## Meeting 7. Research Management: Tropy
 
@@ -162,11 +161,12 @@ Speaking of images, sometimes the most useful thing we can do is systematically 
 One thing that we often might want though from our images is an actual _transcription_ of the handwriting. And many people don't know how to read cursive anymore. And historians deal with vast amounts of materials. What's a person to do?
 
 **To read**
-Nockels, J., et al. 2024. The implications of handwritten text recognition for accessing the past at scale
-OCR & Handwritten text. Journal of Documentation 80.7, 148-167 https://www.emerald.com/insight/content/doi/10.1108/JD-09-2023-0183/full/pdf
+
++ Nockels, J., et al. 2024. The implications of handwritten text recognition for accessing the past at scale, OCR & Handwritten text. Journal of Documentation 80.7, 148-167 [link](https://www.emerald.com/insight/content/doi/10.1108/JD-09-2023-0183/full/pdf).
 
 **To do**
-Blackadar, Jeff. ‘Transcribing Handwritten Text with Python and Microsoft Azure Computer Vision’. Programming Historian, Dec. 2023. programminghistorian.org, https://programminghistorian.org/en/lessons/transcribing-handwritten-text-with-python-and-azure.
+
++ Blackadar, Jeff. ‘Transcribing Handwritten Text with Python and Microsoft Azure Computer Vision’. Programming Historian, Dec. 2023. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/transcribing-handwritten-text-with-python-and-azure).
 
 (also: some multi-modal AI models might be quite good at transcribing images... or they might just make shit up. We ought to investigate a bit.)
 
@@ -178,17 +178,18 @@ So What if we made our research data itself available? There are two kinds of 'r
 
 **To Read**
 
-It's over 10 years old now, but Caleb McDaniel's [Open Notebook History](http://wcaleb.org/blog/open-notebook-history) still is posing questions that historians largely avoid. Have a read of what [several archaeologists argue about 'open science' in archaeology](https://faculty.washington.edu/bmarwick/PDFs/Marwick_et_al_2017_SAA_Record_Sept.pdf). Where are the points of intersection between McDaniel and the archaeologists? What parts of this spark joy? What bits fire up anxiety? What does this mean for you and your research? (On a somewhat related note, [see this collection of previous CU History graduate degree work; what opportunities are lost here, gained here?](https://cuhistory.github.io/grads/)) Finally, read:
++ It's over 10 years old now, but Caleb McDaniel's [Open Notebook History](http://wcaleb.org/blog/open-notebook-history) still is posing questions that historians largely avoid. Have a read of what [several archaeologists argue about 'open science' in archaeology](https://faculty.washington.edu/bmarwick/PDFs/Marwick_et_al_2017_SAA_Record_Sept.pdf). Where are the points of intersection between McDaniel and the archaeologists? What parts of this spark joy? What bits fire up anxiety? What does this mean for you and your research? (On a somewhat related note, [see this collection of previous CU History graduate degree work; what opportunities are lost here, gained here?](https://cuhistory.github.io/grads/))
 
-Marwick, Ben, et al. ‘Packaging Data Analytical Work Reproducibly Using R (and Friends)’. The American Statistician, vol. 72, no. 1, Jan. 2018, pp. 80–88. DOI.org (Crossref), https://doi.org/10.1080/00031305.2017.1375986. What bits are applicable to us?
++ Marwick, Ben, et al. ‘Packaging Data Analytical Work Reproducibly Using R (and Friends)’. The American Statistician, vol. 72, no. 1, Jan. 2018, pp. 80–88. [link](https://doi.org/10.1080/00031305.2017.1375986). What bits are applicable to us?
 
 **To do**
 
 There are two rather different things we could do this week; nevertheless, there is a connection between them.
 
-Let's try setting up [Alexandra Phelan's workflow for connecting Zotero with Obsidian](https://medium.com/@alexandraphelan/literature-reviews-using-zotero-obsidian-66eba1565d78). If you're using Tangent, this workflow obviously won't work - but how could you adapt it? (This article re a new piece of software called 'Lattics' is [of interest](https://medium.com/@axel.em.casas/how-lattics-revolutiozed-my-academic-writing-6d8b34e7983d)).
++ Let's try setting up [Alexandra Phelan's workflow for connecting Zotero with Obsidian](https://medium.com/@alexandraphelan/literature-reviews-using-zotero-obsidian-66eba1565d78). _It's entirely possible it's not worth the bother, for you: in which case, find and then tell us about other ways of using Zotero for literature reviews._ 
+	If you're using Tangent, this workflow obviously won't work - but how could you adapt it? (This article re a new piece of software called 'Lattics' is [of interest](https://medium.com/@axel.em.casas/how-lattics-revolutiozed-my-academic-writing-6d8b34e7983d)).
 
-See [what doing open notebook history through sharing our materials could look like here](https://datapages.github.io/datapage/) and here's the template for [making such a page ourselves](https://github.com/datapages/datapage). Other options exist (including things like [datasette.io](https://datasette.io)). Find a historical dataset. (You could use the network file I provided you at our 4th meeting, which was derived from [this volume](https://archive.org/details/diplomaticcorre33statgoog)). Create a datapage for the dataset (you'll need to check out [The Historian's Macroscope](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma99510920602181) to find out how the data was transformed into this format.)
++ See [what doing open notebook history through sharing our materials could look like here](https://datapages.github.io/datapage/) and here's the template for [making such a page ourselves](https://github.com/datapages/datapage). Other options exist (including things like [datasette.io](https://datasette.io)). Find a historical dataset. (You could use the network file I provided you at our 4th meeting, which was derived from [this volume](https://archive.org/details/diplomaticcorre33statgoog)). Create a datapage for the dataset (you'll need to check out [The Historian's Macroscope](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma99510920602181) to find out how the data was transformed into this format.)
 
 ## Meeting 9. Mallory's papers: scraping & apis
 
@@ -196,27 +197,27 @@ Sometimes, historical information that we might want to study is provided via an
 
 **To read**
 
-Everyone should read and do:
+Everyone should read and, perhaps, do:
 
-Sugimoto, Go. ‘Introduction to Populating a Website with API Data’. Programming Historian, May 2019. programminghistorian.org, https://programminghistorian.org/en/lessons/introduction-to-populating-a-website-with-api-data.
++ Sugimoto, Go. ‘Introduction to Populating a Website with API Data’. Programming Historian, May 2019. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/introduction-to-populating-a-website-with-api-data).
 
 **To do**
 
-First, try this Colab notebook that works with the Chronicling America newspaper API: https://colab.research.google.com/github/o-date/working-with-apis/blob/master/notebooks/chronicling%20america%20api.ipynb
++ First, try this Colab notebook that works with the Chronicling America newspaper API: [link](https://colab.research.google.com/github/o-date/working-with-apis/blob/master/notebooks/chronicling%20america%20api.ipynb)
 
 Then give this a try:
 
-Williamson, Evan Peter. ‘Fetching and Parsing Data from the Web with OpenRefine’. Programming Historian, Aug. 2017. programminghistorian.org, https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine.
++ Williamson, Evan Peter. ‘Fetching and Parsing Data from the Web with OpenRefine’. Programming Historian, Aug. 2017. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine).
 
 Another approach is to parse the structure of the website, and use the Wget command to give it a go. See
 
-Milligan, Ian. ‘Automated Downloading with Wget’. Programming Historian, June 2012. programminghistorian.org, https://programminghistorian.org/en/lessons/automated-downloading-with-wget.
++ Milligan, Ian. ‘Automated Downloading with Wget’. Programming Historian, June 2012. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/automated-downloading-with-wget).
 
 and
 
-Kurschinski, Kellen. ‘Applied Archival Downloading with Wget’. Programming Historian, Sept. 2013. programminghistorian.org, https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget.
++ Kurschinski, Kellen. ‘Applied Archival Downloading with Wget’. Programming Historian, Sept. 2013. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget).
 
-!warning! Badly-formed wget commands (or commands not correctly shut down) can lead to downloading **an awful lot of data** and can make you look like a bad-actor, which we do not want.
+**!warning!** Badly-formed wget commands (or commands not correctly shut down) can lead to downloading **an awful lot of data** and can make you look like a bad-actor, which we do not want.
 
 
 ## Meeting 10: LLMS & Associated Technologies
@@ -227,19 +228,19 @@ There's a *lot* to unpack about using the latest fad, the LLM (marketed as 'AI' 
 
 I have a list of useful [bookmarks](https://hist4805.netlify.app/posts/2024/bookmarks/) in my undergrad class on this topic that are worth exploring. Select at least two items off that list. See also:
 
-Bender, Emily M., et al. ‘On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜’. Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, Association for Computing Machinery, 2021, pp. 610–23. ACM Digital Library, https://doi.org/10.1145/3442188.3445922.
++ Bender, Emily M., et al. ‘On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜’. Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, Association for Computing Machinery, 2021, pp. 610–23. ACM Digital Library, [link](https://doi.org/10.1145/3442188.3445922).
 
-Graham, Shawn. 'Smash the Looms' _Electric Archaeology_ https://electricarchaeology.ca/2024/02/12/smash-the-looms/
++ Graham, Shawn. 'Smash the Looms' _Electric Archaeology_ [link](https://electricarchaeology.ca/2024/02/12/smash-the-looms/)
 
-Morley, Neville. 'We Can Read It For You Wholesale' _Sphinx_ https://thesphinxblog.com/2024/08/02/we-can-read-it-for-you-wholesale/
++ Morley, Neville. 'We Can Read It For You Wholesale' _Sphinx_ [link](https://thesphinxblog.com/2024/08/02/we-can-read-it-for-you-wholesale/)
 
 Given that this is all ultimately sophisticated autocomplete, should we even bother?
 
 **To do**
 
-Brousseau, Chantal. ‘Interrogating a National Narrative with GPT-2’. Programming Historian, Oct. 2022. programminghistorian.org, https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt
++ Brousseau, Chantal. ‘Interrogating a National Narrative with GPT-2’. Programming Historian, Oct. 2022. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt)
 
-Graham, Shawn. 'LLM as a discovery bridge for an API' _Electric Archaeology_ https://electricarchaeology.ca/2024/02/06/llm-as-a-discovery-bridge-for-an-api/ 
++ Graham, Shawn. 'LLM as a discovery bridge for an API' _Electric Archaeology_ [link](https://electricarchaeology.ca/2024/02/06/llm-as-a-discovery-bridge-for-an-api/) 
 
 
 ## Meeting 10. Mallory's papers: LLMs for NLP
@@ -250,13 +251,13 @@ In this, I'm regarding LLMs as a powerful form of 'natural language processing',
 
 **To read**
 
-Graham, Shawn et al. Investigating antiquities trafficking with generative pre-trained transformer (GPT)-3 enabled knowledge graphs: A case study. Open Research Europe. 2023 3:100. [link](https://traffickingculture.org/app/uploads/2023/06/Graham-Yates-El-Roby-2023.pdf)
++ Graham, Shawn et al. Investigating antiquities trafficking with generative pre-trained transformer (GPT)-3 enabled knowledge graphs: A case study. Open Research Europe. 2023 3:100. [link](https://traffickingculture.org/app/uploads/2023/06/Graham-Yates-El-Roby-2023.pdf)
 
 **To do**
 
-Graham, Shawn. 'Using a Large Language Model and Pydantic to Extract Structured Data for Cultural Heritage Crime' _XLab_ https://carleton.ca/xlab/2024/using-a-large-language-model-and-pydantic-to-extract-structured-data-for-cultural-heritage-crime/
++ Graham, Shawn. 'Using a Large Language Model and Pydantic to Extract Structured Data for Cultural Heritage Crime' _XLab_ [link](https://carleton.ca/xlab/2024/using-a-large-language-model-and-pydantic-to-extract-structured-data-for-cultural-heritage-crime/)
 
-...obviously, my interestes in antiquities crime are driving that piece of code. But try to adapt it. Ask yourself, 'what would be a useful schema for extracting structured knowledge about some historical information I'm looking at?'... and then modify accordingly.
+...obviously, my interests in antiquities crime are driving that piece of code. But try to adapt it. Ask yourself, 'what would be a useful schema for extracting structured knowledge about some historical information I'm looking at?'... and then modify accordingly.
 
 
 ## Meeting 11. Mallory's papers: What Shall We Do?
