@@ -27,6 +27,8 @@ These sessions will be opportunities for the more techy to help the less, for th
 **This schedule will be updated with who-will-lead-or-do-what-when after our first meeting**. 
 
 
+---
+
 ## Background Context on Digital History in Canada
 
 At some point before the Fall Break, please read
@@ -34,6 +36,9 @@ At some point before the Fall Break, please read
 Gaffield, Chad. ‘Clio and Computers in Canada and Beyond: Contested Past, Promising Present, Uncertain Future’. The Canadian Historical Review, vol. 101, no. 4, 2020, pp. 559–84. [link](https://muse-jhu-edu.proxy.library.carleton.ca/pub/50/article/777491/pdf)
 
 Kim Martin. 'Clio, Rewired: Propositions for the Future of Digital History Pedagogy in Canada' The Canadian Historical Review, vol. 101, no. 4, 2020, pp. 622-639. [link](https://muse-jhu-edu.proxy.library.carleton.ca/pub/50/article/777494/pdf)
+
+
+---
 
 
 ## Meeting 1: Getting Started
@@ -46,11 +51,13 @@ Kim Martin. 'Clio, Rewired: Propositions for the Future of Digital History Pedag
 
 [Tropy](https://tropy.org) for research management of photographic materials (whether your own photos or other kinds of things)
 
+We should probably set up [github accounts](https://github.com) too. **Do not pay for anything**. _Nothing I ask you to do here should involve paying for an account or access. If you find yourself at any point this term being asked for a credit card, **stop** and talk to me._
+
 We will spend a bit of time setting up your own personal research management environment and talking about this in general; this isn't so much a part of 'digital history' as 'strategies to keep you sane.'
 
-> Ask yourself: has your research to date been _sustainable_ or _reproducible_ or _replicable_? Why should historians care about this sort of thing?
-
 **To do:**
+
+Once we get set up, let's do -
 
 Some command line shennanigans: [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html); [Command Line Murders](https://github.com/veltman/clmystery).
 
@@ -58,13 +65,14 @@ Some command line shennanigans: [Terminus](https://web.mit.edu/mprat/Public/web/
 
 + Tenen, Dennis, and Grant Wythoff. ‘Sustainable Authorship in Plain Text Using Pandoc and Markdown’. Programming Historian, Mar. 2014. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
 
-Then we'll divy out some of the other Programming Historian tutorials below for the subsequent weeks.
-
 **To mull:**
 
 + Baker, James. ‘Preserving Your Research Data’. Programming Historian, Apr. 2014. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/preserving-your-research-data.)
 
 + Heppler, Jason A. ‘How I Use Obsidian Jason A. Heppler’. Jason Heppler Weblog, July 2024. jasonheppler.org, [link](https://jasonheppler.org).
+
+
+---
 
 
 ## Meeting 2: Digital History in the Wild
@@ -86,11 +94,15 @@ Then, select two pieces from [_Current Research in Digital History_](https://crd
 Take a look at your assigned Programming Historian tutorial. Pay attention to the requirements, and try to work out what assumptions the tutorial's author has made about your previous experience and what you need to know to be successful with the tutorial. What are the known unknowns (as it were) for the method?
 
 
+---
+
+
 ## Meeting 3. Quick Static Websites 
 
 Being able to control your own space online enables a certain kind of freedom. Take a look at some academics' scholarly websites- [Kathleen Fitzpatrick](https://kfitz.info/); [Jason Heppler](https://jasonheppler.org/); [Chantal Brousseau](https://chantalbrousseau.xyz/); [Tim Sherratt](https://timsherratt.au/). What unifies them? How are they different? What audience(s) do they serve? What constitutes effective presence?
 
 **To read**
+
 Please read the following tutorials about building static websites, especially the _why_ of it all. I'm not a fan of Jekyll - I find it frustrating to use - but I want you to know these things. Don't worry about trying to put together a Jekyll powered site using these tutorials (unless you really want to).
 
 + Visconti, Amanda. ‘Building a Static Website with Jekyll and GitHub Pages’. Programming Historian, Apr. 2016. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).
@@ -100,6 +112,9 @@ Please read the following tutorials about building static websites, especially t
 **To do**
 
 We'll build a website using [Pelican](https://getpelican.com/#quickstart), which is a python package that will read a folder of text files (in the markdown format), pass them through a template, and spit out the necessary html files that make a website. We'll then put these files online using Github Pages. (See my notes on using Obsidian - or other noteaking app using wikilinks eg Pelican - to write the markdown [here](https://electricarchaeology.ca/2024/07/25/obsidian-for-writing-pelican-for-publishing/)).
+
+---
+
 
 ## Meeting 4. Networks
 
@@ -122,6 +137,9 @@ A handy tool for quick network visualizations: [https://networknavigator.jrladd.
 + Brey, Alex. ‘Temporal Network Analysis with R’. Programming Historian, Nov. 2018. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/temporal-network-analysis-with-r). (You can install RStudio on your machine to run R, or you can change the runtime for Google Colab from Python to R like [so](https://archive.ph/Eqe57).)
 
 
+---
+
+
 ## Meeting 5. Topic Models and Text Analysis
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gN2x_KjJI1o?si=IegSYv86dwFWzXsn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -135,6 +153,9 @@ I love the Data Sitters Club. Read about [their misadventures with topic modelin
 + Mähr, Moritz. ‘Working with Batches of PDF Files’. Programming Historian, Jan. 2020. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files).
 
 + If your documents are in a folder of text files, give [this a try instead](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html). The topic modeling tool uses MALLET under the hood (and you can learn more about how _that_ works and why, [here](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).)
+
+---
+
 
 ## Meeting 6. examining images at scale
 
@@ -151,6 +172,9 @@ What can we see if look at vast amounts of historical imagery at once? I've just
 + Strien, Daniel van, et al. ‘Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 1)’. Programming Historian, Aug. 2022. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1).
 
 + Strien, Daniel van, et al. ‘Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2)’. Programming Historian, Aug. 2022. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt2).
+
+---
+
 
 ## Meeting 7. Research Management: Tropy
 
@@ -170,11 +194,16 @@ One thing that we often might want though from our images is an actual _transcri
 
 (also: some multi-modal AI models might be quite good at transcribing images... or they might just make shit up. We ought to investigate a bit.)
 
+---
+
+
 ## Meeting 8. Research Management: Reference Managers, Personal Knowledge Management Apps, Open Research
 
 This week's theme is a little less-cohesive than usual, but stay with me here.
 
-So What if we made our research data itself available? There are two kinds of 'research data' that we could make available. There are our primary materials (and all of their related annotations and mark-up). There are our thoughts on the secondary materials we read to contextualize those primary materials.
+Ask yourself: has your research to date been _sustainable_ or _reproducible_ or _replicable_? What do these terms mean, for us? Why should historians care about this sort of thing?
+
+There are two kinds of 'research data' that we could make available. There are our primary materials (and all of their related annotations and mark-up). There are our thoughts on the secondary materials we read to contextualize those primary materials.
 
 **To Read**
 
@@ -186,10 +215,12 @@ So What if we made our research data itself available? There are two kinds of 'r
 
 There are two rather different things we could do this week; nevertheless, there is a connection between them.
 
-+ Let's try setting up [Alexandra Phelan's workflow for connecting Zotero with Obsidian](https://medium.com/@alexandraphelan/literature-reviews-using-zotero-obsidian-66eba1565d78). _It's entirely possible it's not worth the bother, for you: in which case, find and then tell us about other ways of using Zotero for literature reviews._ 
-	If you're using Tangent, this workflow obviously won't work - but how could you adapt it? (This article re a new piece of software called 'Lattics' is [of interest](https://medium.com/@axel.em.casas/how-lattics-revolutiozed-my-academic-writing-6d8b34e7983d)).
++ Let's try setting up [Alexandra Phelan's workflow for connecting Zotero with Obsidian](https://medium.com/@alexandraphelan/literature-reviews-using-zotero-obsidian-66eba1565d78). _It's entirely possible this is too complex given the reward: in which case, find and then tell us about other ways of using Zotero for literature reviews._  If you're using Tangent, this workflow obviously won't work - but how could you adapt it? (This article re a new piece of software called 'Lattics' is [of interest](https://medium.com/@axel.em.casas/how-lattics-revolutiozed-my-academic-writing-6d8b34e7983d)).
 
-+ See [what doing open notebook history through sharing our materials could look like here](https://datapages.github.io/datapage/) and here's the template for [making such a page ourselves](https://github.com/datapages/datapage). Other options exist (including things like [datasette.io](https://datasette.io)). Find a historical dataset. (You could use the network file I provided you at our 4th meeting, which was derived from [this volume](https://archive.org/details/diplomaticcorre33statgoog)). Create a datapage for the dataset (you'll need to check out [The Historian's Macroscope](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma99510920602181) to find out how the data was transformed into this format.)
++ See [what doing open notebook history through creating a 'datapage' could look like here](https://datapages.github.io/datapage/) and here's the template for [making such a page ourselves](https://github.com/datapages/datapage). Other options exist (including things like [datasette.io](https://datasette.io)). Find a historical dataset. (You could use the network file I provided you at our 4th meeting, which was derived from [this volume](https://archive.org/details/diplomaticcorre33statgoog)). Create a datapage for the dataset (you'll need to check out [The Historian's Macroscope](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma99510920602181) to find out how the data was transformed into this format.)
+
+---
+
 
 ## Meeting 9. Mallory's papers: scraping & apis
 
@@ -220,6 +251,9 @@ and
 **!warning!** Badly-formed wget commands (or commands not correctly shut down) can lead to downloading **an awful lot of data** and can make you look like a bad-actor, which we do not want.
 
 
+---
+
+
 ## Meeting 10: LLMS & Associated Technologies
 
 There's a *lot* to unpack about using the latest fad, the LLM (marketed as 'AI' because when you rig one up to a chatbot interface you get the illusion of intelligence). There's a lot of angst about using these things for cheating in academic work. There are serious concerns about how these things undermine creative human endeavour. There are serious concerns about their environmental impacts during their training. But I still think you ought to have a deeper engagement with these things than what marketers and grifters want you to do with them (as the underlying language model for a [chatbot that bullshits, in the philosophical sense of the word](https://link.springer.com/article/10.1007/s10676-024-09775-5)). 
@@ -243,7 +277,7 @@ Given that this is all ultimately sophisticated autocomplete, should we even bot
 + Graham, Shawn. 'LLM as a discovery bridge for an API' _Electric Archaeology_ [link](https://electricarchaeology.ca/2024/02/06/llm-as-a-discovery-bridge-for-an-api/) 
 
 
-## Meeting 10. Mallory's papers: LLMs for NLP
+## Meeting 11. Mallory's papers: LLMs for NLP
 
 I'm not going to bother with 'generative ai' in the sense of using LLMs to write text. That's just foolish. I want to use their statistical understandings of (usually, most often) English to _transform_ historical documents into forms that enable me to ask/explore questions of interest.
 
@@ -260,9 +294,8 @@ In this, I'm regarding LLMs as a powerful form of 'natural language processing',
 ...obviously, my interests in antiquities crime are driving that piece of code. But try to adapt it. Ask yourself, 'what would be a useful schema for extracting structured knowledge about some historical information I'm looking at?'... and then modify accordingly.
 
 
-## Meeting 11. Mallory's papers: What Shall We Do?
+---
 
-Given everything you've seen so far, what shall we do and how does what we're doing fit into the broader strands of digital history in Canada?
 
 ## Meeting 12. Wrapping it all up
 
