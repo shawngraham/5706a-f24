@@ -13,7 +13,7 @@ Also: because it's a great visual metaphor for learning digital history. I'm not
 
 _most recent update: August 20 2024_
 
-Magdalen College Cambridge holds [the archive of the explore George Mallory](https://magdalene.maxarchiveservices.co.uk/index.php/mallory-george-herbert-leigh). We are going to work with this body of materials to learn various tools and techniques of digital history. 
+Magdalen College Cambridge holds [the archive of the explorer George Mallory](https://magdalene.maxarchiveservices.co.uk/index.php/mallory-george-herbert-leigh). We are going to work with this body of materials to learn various tools and techniques of digital history. 
 
 I am starting a project on the archaeology of Mount Everest, and so I am using this course to not only give you an opportunity to work with a bounded, interesting, corpus of historical documents but also to kick start my application process to SSHRC. I will be workshopping some of my application materials with you at some point.
 
@@ -21,6 +21,8 @@ There are a variety of flavours of digital history; I tend to categorize them by
 + There is a digital history meant as preservation and access: aspects of digitization, data management, metadata. 
 + There is a digital history meant as public story telling
 + There is a digital history as history influenced by quantification and analytics.
+
+> I confess, I tend more towards the third option in my own work. But I also sometimes get creative; I do work in [data sonification](https://programminghistorian.org/en/lessons/sonification) for instance. If you want some guidance for that side of things, just let me know.
 
 These are just a few lenses through which we may view digital history. My goals are several:
 + for you to identify which lense interests you most
