@@ -11,11 +11,11 @@ Also: because it's a great visual metaphor for learning digital history. I'm not
 
 # Introduction
 
-_most recent update: May 23 2024_
+_most recent update: August 20 2024_
 
 Magdalen College Cambridge holds [the archive of the explore George Mallory](https://magdalene.maxarchiveservices.co.uk/index.php/mallory-george-herbert-leigh). We are going to work with this body of materials to learn various tools and techniques of digital history. 
 
-I am starting a project on the archaeology of Mount Everest, and so I am using this course to not only give you an opportunity to work with a bounded, interesting, corpus of historical documents but also to kick start my application process to SSHRC. I will be workshopping some of my application materials with you.
+I am starting a project on the archaeology of Mount Everest, and so I am using this course to not only give you an opportunity to work with a bounded, interesting, corpus of historical documents but also to kick start my application process to SSHRC. I will be workshopping some of my application materials with you at some point.
 
 There are a variety of flavours of digital history; I tend to categorize them by the eventual aims of the investigator. 
 + There is a digital history meant as preservation and access: aspects of digitization, data management, metadata. 
@@ -37,7 +37,14 @@ Therefore, we will begin with this corpus of material of this Edwardian man, thi
 
 ## How class meetings will work
 
-In general, each week one of you will take us through your exploration of the materials. You will have chosen a particular [Programming Historian tutorial](https://programminghistorian.org/en/lessons/) from the list below and completed it. Then, you will have tried to adapt it to the Mallory archive. Your goal will be to explain to us the information left tacit in the tutorial. Tells us where you got stuck. Tell us how you solved the problem. Tell us how what you learned sheds new light on Mallory and his world. Tell us how what you learned might be useful for your own research (whether for your eventual thesis/MRE or in other classes). You will reflect on how this tutorial intersects with your other courses, your own research, and indeed, the few readings that I will provide you (I expect you to follow through links to bibliography and so on in the Programming Historian tutorials and to bring those to bear in the conversation). If you are not leading the post-mortem, I still expect you to be familiar with the tutorial, the associated links and so on so that we can have a productive conversation.
+In general, each week one of you will take us through your exploration of the materials. You will have chosen a particular [Programming Historian tutorial](https://programminghistorian.org/en/lessons/) from the schedule and completed it. Your goal will be to explain to us the information left tacit in the tutorial. Tells us where you got stuck. Tell us how you solved the problem. Tell us how what you learned sheds new light on Mallory and his world. Tell us how what you learned might be useful for your own research (whether for your eventual thesis/MRE or in other classes). You will reflect on how this tutorial intersects with your other courses, your own research, and indeed, the few readings that I will provide you (I expect you to follow through links to bibliography and so on in the Programming Historian tutorials and to bring those to bear in the conversation). If you are not leading the post-mortem, I still expect you to be familiar with the tutorial, the associated links and so on so that we can have a productive conversation.
+
+## Things you'll produce
+
+- a lab notebook with all the things in it that Future You will need down the road when it comes time to do your MRE, filled as it will be with digital awesomeness
+- a guided session for your peers on the ins and outs of a particular digital method
+- an experiment in digital history you have designed, using Mallory's materials as your source information
+- an unessay where you tell me about the issues that emerged in the experiment that don't actually _go_ in the reporting on the experiment
 
 # Colophon
 
