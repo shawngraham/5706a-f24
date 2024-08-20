@@ -25,7 +25,7 @@ There are a variety of flavours of digital history; I tend to categorize them by
 > I confess, I tend more towards the third option in my own work. But I also sometimes get creative; I do work in [data sonification](https://programminghistorian.org/en/lessons/sonification) for instance. If you want some guidance for that side of things, just let me know.
 
 These are just a few lenses through which we may view digital history. My goals are several:
-+ for you to identify which lense interests you most
++ for you to identify which lens interests you most
 + develop foundational abilities for pursuing those interests
 + develop a professional online persona with on a space that you control
 
