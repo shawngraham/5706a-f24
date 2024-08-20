@@ -146,13 +146,13 @@ A handy tool for quick network visualizations: [https://networknavigator.jrladd.
 
 I love the Data Sitters Club. Read about [their misadventures with topic modeling here](https://datasittersclub.github.io/site/dsc20.html). Let's also play with [Voyant](https://voyant-tools.org). 
 
+Handy bit of code: Here's a Google Notebook I made that uses something called 'paddleOCR' to identify text in an image and then OCR it [link](https://colab.research.google.com/drive/1TYhLsOYW4nVfX5NP8Fi-O1QU0_ndj_ik). There are many other options for OCR'ing text.
+
 **To do**
 
-+ Here's a Google Notebook I made that uses something called 'paddleOCR' to identify text in an image and then OCR it [link](https://colab.research.google.com/drive/1TYhLsOYW4nVfX5NP8Fi-O1QU0_ndj_ik). There are many other options. The lesson below suggests another approach, and then uses Dariah Topics Explorer.
++ Mähr, Moritz. ‘Working with Batches of PDF Files’. Programming Historian, Jan. 2020. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files). After OCR'ing pdfs, it does some topic modeling.
 
-+ Mähr, Moritz. ‘Working with Batches of PDF Files’. Programming Historian, Jan. 2020. programminghistorian.org, [link](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files).
-
-+ If your documents are in a folder of text files, give [this a try instead](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html). The topic modeling tool uses MALLET under the hood (and you can learn more about how _that_ works and why, [here](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).)
++ If your documents are in a folder of text files, give [this a try instead](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html). The topic modeling tool uses MALLET under the hood (and you can learn more about how _that_ works and why, [here](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).) Here's [a zip file with the text of historical plaques from Toronto that you can try fitting a topic model to](http://www.themacroscope.org/1.0/datafiles/toronto-plaques.zip). What patterns in 'public memory' do you find?
 
 ---
 
