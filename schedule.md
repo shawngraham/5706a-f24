@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 permalink: /schedule/
 included: true
-order: 2
+order: 3
 ---
 
 **General pattern**
@@ -24,7 +24,7 @@ These sessions will be opportunities for the more techy to help the less, for th
 
 > doing embodies theories of knowing and how you do things reveals what you know. So know what you're doing.
 
-**This schedule will be updated with who-will-lead-or-do-what-when after our first meeting**. 
+**This schedule will be updated with who-will-lead-or-do-what-when after our first meeting**. The schedule/load can/might be adjusted depending on enrollment.
 
 
 ---
@@ -49,7 +49,7 @@ Kim Martin. 'Clio, Rewired: Propositions for the Future of Digital History Pedag
 
 [Zotero](https://zotero.org) for research management (bibliograpies, citations, pdf annotations, and note making)
 
-[Tropy](https://tropy.org) for research management of photographic materials (whether your own photos or other kinds of things)
+[Tropy](https://tropy.org) for research management of photographic materials (whether your own photos or other kinds of imagery)
 
 We should probably set up [github accounts](https://github.com) too. **Do not pay for anything**. _Nothing I ask you to do here should involve paying for an account or access. If you find yourself at any point this term being asked for a credit card, **stop** and talk to me._
 
@@ -122,7 +122,7 @@ I was a relatively early proponents of network analysis in archaeology. We'll ta
 
 **To Read**
 
-+ Ahnert, Ruth, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart. 2020. The Network Turn: Changing Perspectives in the Humanities. Cambridge: Cambridge University Press. [link](https://doi.org/10.1017/9781108866804). (Our library, [direct link](https://www-cambridge-org.proxy.library.carleton.ca/core/services/aop-cambridge-core/content/view/CC38F2EA9F51A6D1AFCB7E005218BBE5/9781108791908AR.pdf/the-network-turn.pdf). This is a short work, read the intro and part 1, dip into anything else that strikes your fancy.
++ Ahnert, Ruth, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart. 2020. The Network Turn: Changing Perspectives in the Humanities. Cambridge: Cambridge University Press. [link](https://doi.org/10.1017/9781108866804). (Our library, [direct link](https://www-cambridge-org.proxy.library.carleton.ca/core/services/aop-cambridge-core/content/view/CC38F2EA9F51A6D1AFCB7E005218BBE5/9781108791908AR.pdf/the-network-turn.pdf)). This is a short work, read the **intro** and **part 1**, dip into anything else that strikes your fancy.
 
 + For examples of network analysis in the wild, [this issue of the Journal of Historical Network Research](https://jhnr.uni.lu/index.php/jhnr/issue/view/8) is great - see in particular [Ruffini's conclusion](https://jhnr.uni.lu/index.php/jhnr/article/view/82/44) to the issue, which addresses the 'so what' and the 'we knew this already' and 'what if we're wrong'. **This is important**. On a similar note, see Lincoln 2015 on 'confabulation in the humanities' [here](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html).
 
@@ -144,9 +144,9 @@ A handy tool for quick network visualizations: [https://networknavigator.jrladd.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gN2x_KjJI1o?si=IegSYv86dwFWzXsn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I love the Data Sitters Club. Read about [their misadventures with topic modeling here](https://datasittersclub.github.io/site/dsc20.html). Let's also play with [Voyant](https://voyant-tools.org). 
+This week, we'll do interesting things with large volumes of text. But we'll spend a bit of time on _getting_ the text too, which involves OCR. Handy bit of code: Here's a Google Notebook I made that uses something called 'paddleOCR' to identify text in an image and then OCR it [link](https://colab.research.google.com/drive/1TYhLsOYW4nVfX5NP8Fi-O1QU0_ndj_ik). There are many other options for OCR'ing text.
 
-Handy bit of code: Here's a Google Notebook I made that uses something called 'paddleOCR' to identify text in an image and then OCR it [link](https://colab.research.google.com/drive/1TYhLsOYW4nVfX5NP8Fi-O1QU0_ndj_ik). There are many other options for OCR'ing text.
+Now that we've got a whole bunch of text, what might we do? I love the Data Sitters Club - they're a group of scholars using a wide variety of DH approaches to understand an important book series from the '80s & '90s. Read about [their misadventures with topic modeling here](https://datasittersclub.github.io/site/dsc20.html). Let's also play with [Voyant](https://voyant-tools.org). 
 
 **To do**
 
@@ -176,7 +176,7 @@ What can we see if look at vast amounts of historical imagery at once? I've just
 ---
 
 
-## Meeting 7. Research Management: Tropy
+## Meeting 7. Images & Handwriting
 
 Speaking of images, sometimes the most useful thing we can do is systematically keep track of both the images AND our annotations. That's what Tropy's for. And once we've gotten a collection of annotated images, _sharing_ those notes, images, and annotations might be the most [_generous_](https://generousthinking.hcommons.org/) thing we could do.
 
@@ -197,7 +197,7 @@ One thing that we often might want though from our images is an actual _transcri
 ---
 
 
-## Meeting 8. Research Management: Reference Managers, Personal Knowledge Management Apps, Open Research
+## Meeting 8. Open Research
 
 This week's theme is a little less-cohesive than usual, but stay with me here.
 
@@ -215,7 +215,7 @@ There are two kinds of 'research data' that we could make available. There are o
 
 There are two rather different things we could do this week; nevertheless, there is a connection between them.
 
-+ Let's try setting up [Alexandra Phelan's workflow for connecting Zotero with Obsidian](https://medium.com/@alexandraphelan/literature-reviews-using-zotero-obsidian-66eba1565d78). _It's entirely possible this is too complex given the reward: in which case, find and then tell us about other ways of using Zotero for literature reviews._  If you're using Tangent, this workflow obviously won't work - but how could you adapt it? (This article re a new piece of software called 'Lattics' is [of interest](https://medium.com/@axel.em.casas/how-lattics-revolutiozed-my-academic-writing-6d8b34e7983d)).
++ Let's try setting up [Alexandra Phelan's workflow for connecting Zotero with Obsidian](https://medium.com/@alexandraphelan/literature-reviews-using-zotero-obsidian-66eba1565d78). _It's entirely possible this is too complex given the reward: in which case, find and then tell us about other ways of using Zotero for literature reviews._  If you're using Tangent, this workflow obviously won't work - but how could you adapt it? (This article re a new piece of software called 'Lattics' is [of interest](https://medium.com/@axel.em.casas/how-lattics-revolutiozed-my-academic-writing-6d8b34e7983d)). Now: knowing what we know about static websites... what if you made these materials available on the web?
 
 + See [what doing open notebook history through creating a 'datapage' could look like here](https://datapages.github.io/datapage/) and here's the template for [making such a page ourselves](https://github.com/datapages/datapage). Other options exist (including things like [datasette.io](https://datasette.io)). Find a historical dataset. (You could use the network file I provided you at our 4th meeting, which was derived from [this volume](https://archive.org/details/diplomaticcorre33statgoog)). Create a datapage for the dataset (you'll need to check out [The Historian's Macroscope](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma99510920602181) to find out how the data was transformed into this format.)
 

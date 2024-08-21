@@ -3,7 +3,7 @@ layout: page
 title: Assessment
 permalink: /assessment/
 included: true
-order: 3
+order: 2
 ---
 
 # I'm looking for engagement, critical reflection, and experimentation.
