@@ -23,7 +23,7 @@ You should also be frequently documenting your experiment as it develops. If you
 
 For 1 or 2 sessions (depending on enrollment numbers) you will lead the group through your experience with a paricular Programming Historian tutorial (these will be assigned). Walk us through the goals of the tutorial, the nature of the examples, the hidden gotchas, the tacit assumptions, the hiccups, rough patches, dead ends, frustrations, and triumphs. Expand on the tutorial by thinking through how you might use it on a research question pertinent to your own MA work; think through what the tutorial might usefully help us do or learn or see in Mallory's writings. 
 
-The tutorials in question are listed on the [schedule](/schedule) page; I'm open to alternatives at _The Programming Historian_ or elsewhere if they are germane to the larger thrust of the week or there is some compelling reason; talk to me first though.
+The tutorials in question are listed on the [schedule](schedule) page; I'm open to alternatives at _The Programming Historian_ or elsewhere if they are germane to the larger thrust of the week or there is some compelling reason; talk to me first though.
 
 ## Experiment 
 The major experiment in this class will be to explore the issues of digital history as discussed in this course in the context of Mallory's papers. You will deploy (and document) at least three congruent tools/approaches learned from the _The Programming Historian_ (and/or other resources) using Mallory's writings as datasource. By 'congruent' I mean, 'makes sense that these things go together towards a reasonable goal'. 
@@ -45,16 +45,21 @@ But do acknowledge in your work any collaboration or help you have received. Fai
 
 # But what about AI?
 
-'AI' is mostly a marketing term. But there may be cases where it is appropriate to use things like LLM (large language models) or other such tools in the context of doing digital history. **However**: 
+'AI' is mostly a marketing term. But there may be cases where it is appropriate to use things like LLM (large language models) or other such tools in the context of doing digital history. 
+
++ for understanding what code does
++ for making alterations to example code for a particular use
++ for expanding code to do new things.
++ when a tutorial or how-to employs such a technology 
+
+**However**: 
 	
-+ you **may NOT** use such tools for your open notebooks. Even a whiff of generated text will be grounds for rejection of the work. Be prepared to defend orally anything you write/create.
-+ you **MAY** use such tools in the following circumstances:
-	+ for understanding what code does
-	+ for making alterations to example code for a particular use
-	+ for expanding code to do new things.
-	+ when a tutorial or how-to employs such a technology 
++ you **may NOT** use such tools for your open notebooks, because... _what would be the point?_ The open notebook is for Future You. So... just don't, ok?
+
 
 # Grading
+
+The university makes me put percentages on these different aspects, though I like many other scholars view such things as antithetical to real learning. Take these numbers as indications of the relative effort I would like you to expend.
 
 Class Participation: 10% + 10% for your session(s) that you lead.
 
