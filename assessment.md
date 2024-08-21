@@ -14,10 +14,19 @@ Push yourself!
 Don't just take it in, be active in the class discussion. Leadership and positive contributions to the class discussion, wherever that takes place. Each session will involve hacking, poking, prodding, and otherwise doing digital history. We can spend time every session considering how all of this will play to the experiment as well.
 
 ## Open Notebooks
-9 meeting entries (you are encouraged to make a repository in github just for these), plus 2 sessions (depending on enrollment numbers) where you lead the group through your experience with a paricular Programming Historian tutorial (these will be assigned). Your entries should/could reflect on the readings, the discussion, and what you learned from the session leader's experience that week. **Ideally you'll write these during class time**. You should also be frequently posting regarding your experiment as it develops. If you are working on a Programming Historian tutorial, make a particular note about any hidden 'gotchas' you encounter. Video notes/walk throughs are encouraged. You can post these on youtube, vimeo, or similar.  You will select your nine best entries for me to grade. Again, **YOU WILL WRITE THESE DURING APPROPRIATE CLASS TIME** Therefore bullet points etc are appropriate. These are like 'lab notebooks' that help you document your experiments and understanding. They are not great works of literature. They are notes to help 'Future You' to understand what the hell 'Past You' was up to.
+9 meeting entries (you are encouraged to make a repository in github just for these). Your entries should/could reflect on the readings, the discussion, and what you learned from the session leader's experience that week. **Ideally you'll write these during class time**. 
+
+You should also be frequently documenting your experiment as it develops. If you are working on a Programming Historian tutorial, make a particular note about any hidden 'gotchas' you encounter. Video notes/walk throughs are encouraged. You can post these on youtube, vimeo, or similar.  You will select your nine best entries for me to grade. Again, **YOU WILL WRITE THESE DURING APPROPRIATE CLASS TIME** Therefore bullet points etc are appropriate. These are like 'lab notebooks' that help you document your experiments and understanding. They are not great works of literature. They are notes to help 'Future You' to understand what the hell 'Past You' was up to.
+
+
+## Discussion Leading
+
+For 1 or 2 sessions (depending on enrollment numbers) you will lead the group through your experience with a paricular Programming Historian tutorial (these will be assigned). Walk us through the goals of the tutorial, the nature of the examples, the hidden gotchas, the tacit assumptions, the hiccups, rough patches, dead ends, frustrations, and triumphs. Expand on the tutorial by thinking through how you might use it on a research question pertinent to your own MA work; think through what the tutorial might usefully help us do or learn or see in Mallory's writings. 
+
+The tutorials in question are listed on the [schedule](/schedule) page; I'm open to alternatives at _The Programming Historian_ or elsewhere if they are germane to the larger thrust of the week or there is some compelling reason; talk to me first though.
 
 ## Experiment 
-The major experiment in this class will be to explore the issues of digital history as discussed in this course, and Mallory's papers. You will deploy (and document) at least three congruent tools/approaches learned from the _The Programming Historian_ (and/or other resources) using Mallory's writings as datasource. By 'congruent' I mean, 'makes sense that these things go together towards a reasonable goal'. 
+The major experiment in this class will be to explore the issues of digital history as discussed in this course in the context of Mallory's papers. You will deploy (and document) at least three congruent tools/approaches learned from the _The Programming Historian_ (and/or other resources) using Mallory's writings as datasource. By 'congruent' I mean, 'makes sense that these things go together towards a reasonable goal'. 
 
 This experiment can be an individual effort, or a collaborative effort. The experiment will have a public-facing website that you create documenting the data, its transformations, your analytical apparatus, observations or conclusions.
 
@@ -37,12 +46,13 @@ But do acknowledge in your work any collaboration or help you have received. Fai
 # But what about AI?
 
 'AI' is mostly a marketing term. But there may be cases where it is appropriate to use things like LLM (large language models) or other such tools in the context of doing digital history. **However**: 
-	+ you **may NOT** use such tools for your open notebooks. Even a whiff of generated text will be grounds for rejection of the work. Be prepared to defend orally anything you write/create.
-	+ you **MAY** use such tools in the following circumstances:
-		+ for understanding what code does
-		+ for making alterations to example code for a particular use
-		+ for expanding code to do new things.
-		+ when a tutorial or how-to employs such a technology 
+	
++ you **may NOT** use such tools for your open notebooks. Even a whiff of generated text will be grounds for rejection of the work. Be prepared to defend orally anything you write/create.
++ you **MAY** use such tools in the following circumstances:
+	+ for understanding what code does
+	+ for making alterations to example code for a particular use
+	+ for expanding code to do new things.
+	+ when a tutorial or how-to employs such a technology 
 
 # Grading
 
