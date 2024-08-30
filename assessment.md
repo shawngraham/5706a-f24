@@ -71,4 +71,4 @@ Unessay: 20%
 
 ## Caveat
 
-I reserve the right to rejig these assessment exercises and criteria to take into account the enrollment in the class; if we happen to be a smaller-than-average class size, these elements will be adjusted to reflect the higher levels of engagment needed for a successful class. Any such rejigging however will be discussed with you within the first two weeks of the class.
+I reserve the right to rejig these assessment exercises and criteria to take into account the enrollment in the class; if we happen to be a smaller-than-average class size, these elements will be adjusted to reflect the higher levels of engagement needed for a successful class. Any such rejigging however will be discussed with you within the first two weeks of the class.
