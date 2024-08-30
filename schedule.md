@@ -18,7 +18,7 @@ The remaining time will run along the lines of a mini unconference. That is, I e
 
 > at an unconference, the program isn’t set beforehand: it’s created on the first day with the help of all the participants rather than beforehand by a program committee. Second, at an unconference, there are no presentations — all participants in an unconference are expected to talk and work with fellow participants in every session. An unconference is to a conference what a seminar is to a lecture; going to an unconference is like being a member of an improv troupe whereas going to a conference is (mostly) like being a member of an audience.
 
-I've had far too many seminars that felt like dreadful dreadful conferences. So, let's give this a try. One thing that I think I would like you to discuss every session: how does this particular tutorial move us closer to the final project goal? What could we do with this? How can we open this thing up even mmore?
+I've had far too many seminars that felt like dreadful dreadful conferences. So, let's give this a try. One thing that I think I would like you to discuss every session: how does this particular tutorial move us closer to the final project goal? What could we do with this? How can we open this thing up even more?
 
 These sessions will be opportunities for the more techy to help the less, for the more theoretically inclined to help the more methodologically inclined. I will say this though:
 
@@ -47,7 +47,7 @@ Kim Martin. 'Clio, Rewired: Propositions for the Future of Digital History Pedag
 
 [Obsidian](https://obsidian.md) OR [Tangent](https://www.tangentnotes.com/); if in doubt, the learning curve for Tangent is much gentler. If this is your first exposure to these kinds of note-taking applications, I'd suggest Tangent
 
-[Zotero](https://zotero.org) for research management (bibliograpies, citations, pdf annotations, and note making)
+[Zotero](https://zotero.org) for research management (bibliographies, citations, pdf annotations, and note making)
 
 [Tropy](https://tropy.org) for research management of photographic materials (whether your own photos or other kinds of imagery)
 
