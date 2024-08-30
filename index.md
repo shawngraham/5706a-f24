@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HIST5706a Digital History, Fall 2024 @ Carleton U
+title: HIST5706f Digital History, Fall 2024 @ Carleton U
 ---
 
 ![Mt. Everest from Gokyo Ri November 5, 2012 Cropped](images/Mt._Everest_from_Gokyo_Ri_November_5,_2012_Cropped.jpg)
@@ -31,7 +31,7 @@ My goals are several:
 
 I expect you to [fail gloriously](https://thedigitalpress.org/wp-content/uploads/2019/12/failing_gloriously_final.pdf), which is to say: digital work is frustrating and things often don't work the way you want them to. To 'fail gloriously' is to be open about what has not worked so that your colleagues can learn from your experience.
 
-**Stuff isn't going to work**. It's just the way it is. Digital approaches are replete with tacit assumptions and things-left-unsaid. There are generational aspects at play, too. Those of us who came of age in different eras of digital tech - the home computer boom of the '80s, the early web of the '90s, etc etc - were exposed to different ways of thinking about what computers/digital techs were _for_ and how best to use them. This **will** mean that I will make assumptions about your starting profeciences which may or may not be warranted.
+**Stuff isn't going to work**. It's just the way it is. Digital approaches are replete with tacit assumptions and things-left-unsaid. There are generational aspects at play, too. Those of us who came of age in different eras of digital tech - the home computer boom of the '80s, the early web of the '90s, etc etc - were exposed to different ways of thinking about what computers/digital techs were _for_ and how best to use them. This **will** mean that I will make assumptions about your starting proficiencies which may or may not be warranted.
 
 I expect you to call me on this. After all, how else can we learn?
 
