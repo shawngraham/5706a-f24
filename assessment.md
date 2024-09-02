@@ -23,7 +23,7 @@ You should also be frequently documenting your experiment as it develops. If you
 
 For 1 or 2 sessions (depending on enrollment numbers) you will lead the group through your experience with a paricular Programming Historian tutorial (these will be assigned). Walk us through the goals of the tutorial, the nature of the examples, the hidden gotchas, the tacit assumptions, the hiccups, rough patches, dead ends, frustrations, and triumphs. Expand on the tutorial by thinking through how you might use it on a research question pertinent to your own MA work; think through what the tutorial might usefully help us do or learn or see in Mallory's writings. 
 
-The tutorials in question are listed on the [schedule](/schedule) page; I'm open to alternatives at _The Programming Historian_ or elsewhere if they are germane to the larger thrust of the week or there is some compelling reason; talk to me first though.
+The tutorials in question are listed on the [schedule](../schedule) page; I'm open to alternatives at _The Programming Historian_ or elsewhere if they are germane to the larger thrust of the week or there is some compelling reason; talk to me first though.
 
 ## Experiment 
 The major experiment in this class will be to explore the issues of digital history as discussed in this course in the context of Mallory's papers. You will deploy (and document) at least three congruent tools/approaches learned from the _The Programming Historian_ (and/or other resources) using Mallory's writings as datasource. By 'congruent' I mean, 'makes sense that these things go together towards a reasonable goal'. 
