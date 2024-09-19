@@ -111,7 +111,7 @@ Please read the following tutorials about building static websites, especially t
 
 **To do**
 
-We'll build a website using [Pelican](https://getpelican.com/#quickstart), which is a python package that will read a folder of text files (in the markdown format), pass them through a template, and spit out the necessary html files that make a website. We'll then put these files online using Github Pages. (See my notes on using Obsidian - or other noteaking app using wikilinks eg Pelican - to write the markdown [here](https://electricarchaeology.ca/2024/07/25/obsidian-for-writing-pelican-for-publishing/)).
+We'll build a website using [Pelican](https://getpelican.com/#quickstart), which is a python package that will read a folder of text files (in the markdown format), pass them through a template, and spit out the necessary html files that make a website. We'll then put these files online using Github Pages. (See my notes on using Obsidian - or other noteaking app using wikilinks eg Pelican - to write the markdown [here](https://shawngraham.github.io/5706f-f24/2024/09/10/pelicans.html)). (update Sept 19: Given the dependency, path, and security issues we had in class, [here for future reference are a set of notebooks that show Pelican working for both a blog or a collections website](https://github.com/shawngraham/pelican-via-google-colab/).)
 
 ---
 
@@ -162,6 +162,8 @@ Now that we've got a whole bunch of text, what might we do? I love the Data Sitt
 What can we see if look at vast amounts of historical imagery at once? I've just completed a project looking at social media and the trade in human remains (people buy and sell human remains online). A major tool we used were various neural network models trained to discriminate different classes of materials (including retraining such models for our own purposes). This week, I'll talk about that for a bit, and we'll think about under what conditions such approaches would be useful in your own research, and what dangers may lurk.
 
 **To Read**
+
++ Chapter 1 in Arnold & Tilton's book - [OA version](https://direct.mit.edu/books/oa-monograph/5674/chapter/4361339/Distant-Viewing-Theory)
 
 + Wevers, M. J. H. F., Vriend, N., & De Bruin, A. (2022). What to do with 2.000.000 Historical Press Photos? The Challenges and Opportunities of Applying a Scene Detection Algorithm to a Digitised Press Photo Collection. TMG – Journal for Media History, 25(1) [link](https://doi.org/10.18146/tmg.815). 
 
