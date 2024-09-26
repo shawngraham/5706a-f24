@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "September Already?"
-date:   2024-10-02 10:36:30 +0100
+title:  "Topic Models"
+date:   2024-09-26 10:36:30 +0100
 tags:   topicModels, data, scripts
 ---
 
